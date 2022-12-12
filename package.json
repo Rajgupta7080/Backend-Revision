@@ -1,0 +1,25 @@
+{
+  "name": "backend-revision",
+  "version": "1.0.0",
+  "description": "This is my personal repo where i push my backend code as i start revising backend again.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajgupta7080/Backend-Revision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajgupta7080/Backend-Revision/issues"
+  },
+  "homepage": "https://github.com/Rajgupta7080/Backend-Revision#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
